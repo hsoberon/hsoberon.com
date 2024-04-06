@@ -1,3 +1,4 @@
-*** HSOBERON.COM 
+HSOBERON.COM
+==============
 
-* CV for Hernan Soberon
+Personal webpage as CV for _Hernan Soberon_
